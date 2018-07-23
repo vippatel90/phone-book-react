@@ -1,0 +1,29 @@
+{
+  "name": "react-tech-test",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "redux": "^3.5.2",
+    "react-redux": "^5.0.7",
+    "react-redux-form": "^1.16.9",
+    "prop-types": "^15.6.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "precommit": "pretty-quick"
+  },
+  "devDependencies": {
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-prettier": "^2.6.1",
+    "prettier": "^1.13.7",
+    "pretty-quick": "^1.6.0",
+    "react-scripts": "1.1.4"
+  }
+}

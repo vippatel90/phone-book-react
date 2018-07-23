@@ -1,0 +1,14 @@
+.box {
+  width: 700px;
+  margin: auto;
+}
+
+.errors {
+  margin: 0.5rem 0;
+  color: red;
+
+  > span {
+    display: block;
+    font-size: 0.8rem;
+  }
+}
